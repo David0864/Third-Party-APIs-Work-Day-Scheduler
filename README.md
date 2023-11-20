@@ -31,4 +31,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+![screenshot](<assets/Screenshot (9).png>)
 
+[Link to site](https://david0864.github.io/Third-Party-APIs-Work-Day-Scheduler/)
